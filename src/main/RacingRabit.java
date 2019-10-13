@@ -1,8 +1,8 @@
 package main;
 
-public class RacingRabbit
+public class RacingRabit
         extends Thread {
-    public RacingRabbit(String name) {
+    public RacingRabit(String name) {
         super(name);
     }
 
